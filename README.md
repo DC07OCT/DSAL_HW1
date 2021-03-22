@@ -7,6 +7,7 @@
 - 	反而是“淨尖峰供電能力(MW)”和” 尖峰負載(MW)”比較有一致的趨勢
 
 ![image](https://github.com/DC07OCT/DSAL_HW1/blob/main/Tables/2.png)
+
 ![image](https://github.com/DC07OCT/DSAL_HW1/blob/main/Tables/3.png)
 ![image](https://github.com/DC07OCT/DSAL_HW1/blob/main/Tables/4.png)
 ![image](https://github.com/DC07OCT/DSAL_HW1/blob/main/Tables/5.png)
