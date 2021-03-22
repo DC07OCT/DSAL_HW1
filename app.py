@@ -13,7 +13,8 @@ if __name__=='__main__':
     import statistics
 
 
-    path = 'C://Users/周郁庭/Desktop/DSAI_HW1_Electricity forecast/Trainingdata_new_2.csv'
+    #path = 'C://Users/周郁庭/Desktop/DSAI_HW1_Electricity forecast/Trainingdata_new_2.csv'
+    path=args.training
     # df = read_csv(path, encoding='gb2312')
     df = read_csv(path, header=0, encoding='gb18030', usecols=[0, 3, 4, 5, 6, 9, 10, 11, 12, 15, 16, 17],
                   parse_dates=[0])  # ,encoding='gb18030'如果檔名中有中文
