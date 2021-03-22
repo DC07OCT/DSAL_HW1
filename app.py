@@ -83,7 +83,7 @@ if __name__=='__main__':
 
     print(df['2021operate reserve'])
 
-    # 手動修改(PP感覺怪怪)
+    # 手動修改
     for i in range(81, 87):
         df['2021operate reserve'][i] = (df['2021operate reserve'][i] + df['2021operate reserve'][i - 7]) / 2
 
