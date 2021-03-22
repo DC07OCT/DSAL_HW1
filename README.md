@@ -5,6 +5,7 @@
 - 	分析20200101-20200131的備載容量跟20210101-20210131的備載容量,發現相關性很小,所以不直接分析它
 ![image](https://github.com/DC07OCT/DSAL_HW1/blob/main/Tables/1.png)
 - 	反而是“淨尖峰供電能力(MW)”和” 尖峰負載(MW)”比較有一致的趨勢
+
 ![image](https://github.com/DC07OCT/DSAL_HW1/blob/main/Tables/2.png)
 ![image](https://github.com/DC07OCT/DSAL_HW1/blob/main/Tables/3.png)
 ![image](https://github.com/DC07OCT/DSAL_HW1/blob/main/Tables/4.png)
