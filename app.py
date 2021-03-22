@@ -93,6 +93,6 @@ if __name__=='__main__':
     # 寫入csv file
     with open('submission.csv', 'w', newline="") as new_file:
         writer = csv.writer(new_file)
-        writer.writerow(['date', 'operate reserve'])
+        writer.writerow(['date', 'operating_reserve(MV)'])
         for i in range(81, 88):
             writer.writerow(['202102%s' % (i - 58), df['2021operate reserve'][i]])
